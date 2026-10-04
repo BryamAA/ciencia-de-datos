@@ -1,0 +1,3 @@
+# Entorno SOLO para PyCaret: requiere Python 3.9 - 3.11 (falla en 3.12/3.13).
+# En Colab el notebook lo instala solo, dentro de un entorno aislado creado con uv.
+pycaret

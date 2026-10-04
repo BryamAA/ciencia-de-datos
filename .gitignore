@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# Archivos generados por PyCaret al ejecutar
+pycaret_run.py
+resultados_pycaret.json
+logs.log
+AUC.png
+Confusion Matrix.png
+Feature Importance.png
+# kaggle.json NUNCA se sube
+kaggle.json
+.DS_Store

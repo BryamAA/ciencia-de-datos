@@ -74,22 +74,22 @@ Al ejecutar el notebook en local, **omite la celda de instalación con `uv`** (l
 
 ## Declaración de uso de IA generativa
 
-**Herramienta utilizada:** Claude (Anthropic) [COMPLETAR: añadir cualquier otra herramienta que el grupo haya usado, con su versión si la conocen].
+**Herramientas utilizadas:** Claude (Anthropic). Para completar esta declaración, también se usó OpenAI Codex (GPT-6) como apoyo para redactar las respuestas pendientes de este README; el grupo debe añadir cualquier otra herramienta que haya usado durante el proyecto.
 
 | Tarea | Uso de la IA | Quién lo usó |
 |---|---|---|
 | Planificación | Cronograma de trabajo y reparto de tareas entre los tres integrantes. | [Marcos] |
 | Código | Plantilla inicial del notebook (carga de datos, limpieza, gráficos del EDA, pipeline de scikit-learn, script de PyCaret) y solución del error de instalación de PyCaret en Python 3.13. | [Todos] |
 | Redacción | Borradores de las conclusiones del EDA, de la interpretación de la comparación y de este README. | [Marcos] |
-| Diseño | [COMPLETAR: por ejemplo, presentación o infografía, cuando estén hechas]. | [Bryam] |
+| Diseño | No consta una presentación o infografía entre los archivos de este repositorio. Si se preparó por separado, describir aquí el material y el uso de IA; si no, indicar «No se usó IA para diseño». | [Bryam: confirmar] |
 
 **Cómo verificamos las salidas:**
 
 - Ejecutamos todo el notebook de principio a fin en Google Colab; el código generado por la IA se corrió y se corrigió hasta que funcionó.
 - Las cifras del EDA y de la comparación (porcentajes de churn, medias, F1, ROC-AUC, tiempos) **provienen de las salidas reales del notebook**, no de la IA. Las conclusiones se escribieron después de ver los resultados y se contrastaron con los gráficos.
 - Revisamos las decisiones técnicas (por ejemplo, imputar con 0 los 11 valores vacíos de `TotalCharges` tras comprobar que todos tienen `tenure = 0`).
-- Las referencias y el caso de uso real se comprueban abriendo y leyendo la fuente original. [COMPLETAR cuando estén listos.]
-- Cada integrante revisó y entiende el código de su sección. [COMPLETAR/CONFIRMAR]
+- Las fuentes consultadas se identifican en «Créditos y referencias». Antes de entregar, confirmar que el grupo abrió y leyó las fuentes originales y añadir allí la referencia del caso de uso real, si corresponde.
+- Confirmar con cada integrante que revisó y entiende el código de su sección antes de mantener esta afirmación como verificada.
 
 ## Desarrollo y colaboración
 

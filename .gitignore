@@ -14,3 +14,5 @@ Feature Importance.png
 # kaggle.json NUNCA se sube
 kaggle.json
 .DS_Store
+pred_pycaret.csv
+importancia_pycaret.csv

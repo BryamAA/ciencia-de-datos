@@ -1,0 +1,124 @@
+COEVALUACION DEL TRABAJO EN EQUIPO
+Actividad: Herramientas de Inteligencia Artificial para Ciencia de Datos
+Asignatura: Ciencia de los Datos | Docente: Ing. Jorge Maldonado
+Grupo: Bryam Astudillo, Marcos Naranjo, Daniel Salcedo
+
+======================================================================
+INSTRUCCIONES
+======================================================================
+1. Cada integrante completa SOLO su propia seccion (la que lleva su nombre
+   como evaluador) y la guarda con su propio usuario de Git.
+2. En cada seccion se valora a los tres integrantes, incluido uno mismo.
+3. Los niveles son los de la rubrica del curso:
+   Excelente | Bueno | En desarrollo | Insuficiente
+4. Criterios:
+   - Aporte: calidad y cantidad del trabajo entregado (codigo, textos,
+     documentos, presentacion), con evidencia en el repositorio.
+   - Cumplimiento: entrego a tiempo y cumplio lo acordado en el grupo.
+   - Comunicacion: respondio, aviso de bloqueos, dio y acepto
+     retroalimentacion.
+5. Cada comentario debe ser concreto (que hizo o que falto), no general.
+6. Se puede comprobar el aporte en el historial del repositorio:
+   git log --author="nombre" --oneline
+
+======================================================================
+SECCION DE: BRYAM ASTUDILLO (evaluador)
+======================================================================
+
+--- Evaluacion de Bryam Astudillo (autoevaluacion) ---
+Entregables (segun el reparto del grupo): seccion 3 del notebook (PyCaret) y ficha de investigacion de PyCaret.
+Aporte:        Bueno
+Cumplimiento:  Bueno
+Comunicacion:  Bueno
+Comentario (que hizo o que falto):
+____________________________________________________________
+____________________________________________________________
+
+--- Evaluacion de Marcos Naranjo ---
+Entregables (segun el reparto del grupo): EDA y preprocesamiento, comparacion final e importancia de variables, casos de uso, presentacion y README.
+Aporte:        Excelente
+Cumplimiento:  Excelente
+Comunicacion:  Excelente
+Comentario (que hizo o que falto):
+____________________________________________________________
+____________________________________________________________
+
+--- Evaluacion de Daniel Salcedo ---
+Entregables (segun el reparto del grupo): seccion 4 (regresion logistica con validacion cruzada), tabla comparativa de herramientas AutoML e interpretacion de la comparacion final.
+Aporte:        Excelente
+Cumplimiento:  Excelente
+Comunicacion:  Excelente
+Comentario (que hizo o que falto):
+____________________________________________________________
+____________________________________________________________
+
+Que mejoraria el equipo para una proxima actividad:
+____________________________________________________________
+
+
+======================================================================
+SECCION DE: MARCOS NARANJO (evaluador)
+======================================================================
+
+--- Evaluacion de Bryam Astudillo ---
+Entregables (segun el reparto del grupo): seccion 3 del notebook (PyCaret) y ficha de investigacion de PyCaret.
+Aporte:        Bueno
+Cumplimiento:  Excelente
+Comunicacion:  Bueno
+Comentario (que hizo o que falto):
+____________________________________________________________
+____________________________________________________________
+
+--- Evaluacion de Marcos Naranjo (autoevaluacion) ---
+Entregables (segun el reparto del grupo): EDA y preprocesamiento, comparacion final e importancia de variables, casos de uso, presentacion y README.
+Aporte:        Bueno
+Cumplimiento:  Bueno
+Comunicacion:  Bueno
+Comentario (que hizo o que falto):
+____________________________________________________________
+____________________________________________________________
+
+--- Evaluacion de Daniel Salcedo ---
+Entregables (segun el reparto del grupo): seccion 4 (regresion logistica con validacion cruzada), tabla comparativa de herramientas AutoML e interpretacion de la comparacion final.
+Aporte:        Bueno
+Cumplimiento:  Excelente
+Comunicacion:  Bueno
+Comentario (que hizo o que falto):
+____________________________________________________________
+____________________________________________________________
+
+Que mejoraria el equipo para una proxima actividad:
+Mejor organización.
+
+
+======================================================================
+SECCION DE: DANIEL SALCEDO (evaluador)
+======================================================================
+
+--- Evaluacion de Bryam Astudillo ---
+Entregables (segun el reparto del grupo): seccion 3 del notebook (PyCaret) y ficha de investigacion de PyCaret.
+Aporte:        Excelente
+Cumplimiento:  Excelente
+Comunicacion:  Excelente
+Comentario (que hizo o que falto):
+____________________________________________________________
+
+--- Evaluacion de Marcos Naranjo ---
+Entregables (segun el reparto del grupo): EDA y preprocesamiento, comparacion final e importancia de variables, casos de uso, presentacion y README.
+Aporte:        Excelente
+Cumplimiento:  Excelente
+Comunicacion:  Excelente
+Comentario (que hizo o que falto):
+____________________________________________________________
+
+--- Evaluacion de Daniel Salcedo (autoevaluacion) ---
+Entregables (segun el reparto del grupo): seccion 4 (regresion logistica con validacion cruzada), tabla comparativa de herramientas AutoML e interpretacion de la comparacion final.
+Aporte:        Excelente
+Cumplimiento:  Excelente
+Comunicacion:  Excelente
+Comentario (que hizo o que falto):
+____________________________________________________________
+
+Que mejoraria el equipo para una proxima actividad:
+Definir un cronograma con mayor margen de tiempo previo a la entrega del trabajo.
+____________________________________________________________

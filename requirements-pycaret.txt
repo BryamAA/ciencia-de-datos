@@ -1,3 +1,6 @@
-# Entorno SOLO para PyCaret: requiere Python 3.9 - 3.11 (falla en 3.12/3.13).
-# En Colab el notebook lo instala solo, dentro de un entorno aislado creado con uv.
-pycaret
+# Entorno de PyCaret: Python 3.9 a 3.11 (probado con Python 3.11.17)
+# No instalar junto con requirements.txt: las versiones de numpy, pandas y scikit-learn difieren.
+pycaret==3.3.2
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.4.2

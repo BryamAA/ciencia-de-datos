@@ -1,9 +1,8 @@
-# Entorno principal (Python 3.10 - 3.13): EDA, preprocesamiento y regresión logística.
-# Probado en Google Colab (Python 3.13).
-numpy
-pandas
+# Entorno principal del notebook (probado en Google Colab con Python 3.13)
+numpy==2.1.3
+pandas==2.2.3
+scikit-learn==1.6.1
 matplotlib
 seaborn
-scikit-learn
 kagglehub
 jupyter
